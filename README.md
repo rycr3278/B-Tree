@@ -1,3 +1,30 @@
+### Summary of B-Tree
+
+**Focus:** 
+This assignment involves implementing a B-Tree, a self-balancing search tree, crucial for handling large datasets that cannot fit in main memory. The project emphasizes the reduction of disk accesses, a significant factor in data retrieval efficiency. It was originally assigned as a class project for CSCI 2270 - Data Structures.
+
+**Key Skills Developed:**
+- Mastery in implementing and manipulating complex data structures like B-Trees.
+- Developing an understanding of the challenges and solutions in handling large data sets, particularly in minimizing disk access.
+- Enhancing problem-solving skills through detailed planning and testing of B-Tree operations.
+
+**Project Structure:**
+- Primary implementation is in `BTree.cpp` and `BTree.h`.
+- The project includes a suite of tests for validating the B-Tree implementation.
+
+**Assignment Highlights:**
+- The BTree class encapsulates the functionality of a B-Tree, including insertion, deletion, and search operations.
+- Emphasis on handling edge cases in tree operations, such as node merging, splitting, and key reallocation.
+- Focus on understanding the tree's growth and shrinkage dynamics during insertions and deletions.
+
+**Learning Insights:**
+- Recognizes the assignment's complexity and encourages a strategic approach before coding.
+- Suggests starting with individual function testing and gradually building up to more complex scenarios.
+- Recommends the use of helper functions and thorough planning of algorithms for each function.
+
+**Below are the original assignment instructions, unaltered.**
+
+
 # CSCI 2270 – Data Structures - Assignment 5
 ## Overview
 
